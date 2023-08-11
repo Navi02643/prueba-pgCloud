@@ -1,0 +1,12 @@
+{
+  "App": {
+    "test": "Este es un mensaje de prueba"
+  },
+  "Login": {
+    "email":  "Correo",
+    "password": "Contraseña",
+    "button": "Ingresar",
+    "clients": "Clientes",
+    "center": "Id Centro"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "App": {
+    "test": "This is a test message",
+    "5447 8664 4450":"7509",
+    "0095486544": "",
+
+    "BBVA160118": "CL16382401"
+  },
+  "Login": {
+    "email":  "Email",
+    "password": "Password",
+    "button": "Enter",
+    "clients": "Clients",
+    "center": "Center Id"
+  }
+}
